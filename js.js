@@ -19,7 +19,7 @@ function checkValid(age){
     }
 
 }
-
+// you can try this % https://learn.javascript.ru/operators#matematika
 
 let userAge = prompt('Enter your age');
 
